@@ -7,6 +7,7 @@ namespace NumberFiveConsole
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to Dev guessing:");
+            Console.WriteLine("Welcome to guessing dev task:");
             Console.WriteLine("Type a number that is less than 5 :");
 
             string input = Console.ReadLine();
