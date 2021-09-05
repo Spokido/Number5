@@ -19,6 +19,7 @@ namespace NumberFiveConsole
             }
 
             Console.WriteLine($"The difference between {number} and 5 is :{5 - number}");
+            Console.WriteLine("Thank you for using this");
 
             Console.WriteLine();
             Console.Write("Press any key to close the console app...");
