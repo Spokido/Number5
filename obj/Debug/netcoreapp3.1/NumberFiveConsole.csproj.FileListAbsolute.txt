@@ -1,0 +1,13 @@
+C:\Users\Admin\Source\Repos\Number5\bin\Debug\netcoreapp3.1\NumberFiveConsole.exe
+C:\Users\Admin\Source\Repos\Number5\bin\Debug\netcoreapp3.1\NumberFiveConsole.deps.json
+C:\Users\Admin\Source\Repos\Number5\bin\Debug\netcoreapp3.1\NumberFiveConsole.runtimeconfig.json
+C:\Users\Admin\Source\Repos\Number5\bin\Debug\netcoreapp3.1\NumberFiveConsole.runtimeconfig.dev.json
+C:\Users\Admin\Source\Repos\Number5\bin\Debug\netcoreapp3.1\NumberFiveConsole.dll
+C:\Users\Admin\Source\Repos\Number5\bin\Debug\netcoreapp3.1\NumberFiveConsole.pdb
+C:\Users\Admin\Source\Repos\Number5\obj\Debug\netcoreapp3.1\NumberFiveConsole.csprojAssemblyReference.cache
+C:\Users\Admin\Source\Repos\Number5\obj\Debug\netcoreapp3.1\NumberFiveConsole.AssemblyInfoInputs.cache
+C:\Users\Admin\Source\Repos\Number5\obj\Debug\netcoreapp3.1\NumberFiveConsole.AssemblyInfo.cs
+C:\Users\Admin\Source\Repos\Number5\obj\Debug\netcoreapp3.1\NumberFiveConsole.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Source\Repos\Number5\obj\Debug\netcoreapp3.1\NumberFiveConsole.dll
+C:\Users\Admin\Source\Repos\Number5\obj\Debug\netcoreapp3.1\NumberFiveConsole.pdb
+C:\Users\Admin\Source\Repos\Number5\obj\Debug\netcoreapp3.1\NumberFiveConsole.genruntimeconfig.cache
